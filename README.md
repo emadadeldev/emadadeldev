@@ -4,7 +4,7 @@
 
 </div>
 
-#### <img src="https://raw.githubusercontent.com/emadadeldev/ittea/refs/heads/main/static/Images/text-rounded-logo.png" alt="itt" width="20"> [Install Tweaks Tool](https://github.com/emadadeldev/ittea): Includes Windows 10/11 apps, tweaks, remove bloatware.
+#### <img src="https://raw.githubusercontent.com/emadadeldev/ittea/refs/heads/main/static/Images/text-rounded-logo.png" alt="itt" width="20"> [Install Tweaks Tool](https://github.com/emadadeldev/ittea): included most Windows 10/11 Software and Tweaks.
 #### 💻 [Eterminal](https://github.com/emadadeldev/eterminal): Browser extension, Make new tab like terminal and add your custom commands and more.
 #### 🐧 [Void Linux](https://github.com/emadadeldev/void-linux): Void Linux with your favorite desktop or window manager.
 #### ⏬ [ShellTube](https://github.com/emadadeldev/ShellTube): Download Youtube videos easily.  
