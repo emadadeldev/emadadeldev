@@ -5,9 +5,10 @@
 </div>
 
 #### <img src="https://raw.githubusercontent.com/emadadeldev/ittea/refs/heads/main/static/Images/text-rounded-logo.png" alt="itt" width="20"> [Install Tweaks Tool](https://github.com/emadadeldev/ittea): included most Windows 10/11 Software and Tweaks.
-#### 💻 [Eterminal](https://github.com/emadadeldev/eterminal): Browser extension, Make new tab like terminal and add your custom commands and more.
+#### >_ [Eterminal](https://github.com/emadadeldev/eterminal): Browser extension, Make new tab like terminal and add your custom commands and more.
 #### ⏬ [ShellTube](https://github.com/emadadeldev/ShellTube): Download Youtube videos easily.  
 #### 🎧 [Quran](https://emadadeldev.github.io/Soura/): Listen to daily Quranic Surahs.  
+#### ⚡ [Dynamic Window Manager](https://github.com/emadadeldev/dwm): My minimal Void DWM
 
 ### Languages and Tools
 
