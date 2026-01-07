@@ -27,6 +27,10 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 <br>
 
+
+### Localization I’ve Worked On
+[Red Dead Redemption](https://www.nexusmods.com/reddeadredemption/mods/575) & [Red Dead Redemption 2 - Soon...](#)
+
 ### 🖥️ Operating Systems
 
 ![Void Linux](https://img.shields.io/badge/-Void_Linux-000000?style=flat-square&logo=void-linux&logoColor=green)
