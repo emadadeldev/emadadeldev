@@ -56,6 +56,10 @@
 </a>
 
 <a href="#" target="_blank">
+    <img src="https://m.media-amazon.com/images/M/MV5BZjdmOTE3NjItY2JkMi00YjlhLWI0M2UtZjEwZTQ4ZDBkM2I0XkEyXkFqcGc@._V1_FMjpg_UX490_.jpg" alt="Play Video" style="width: 100px;">
+</a>
+
+<a href="#" target="_blank">
     <img src="https://image.tmdb.org/t/p/original/gY54trMRzlElYrL6oVdAWJK1ICL.jpg" alt="Play Video" style="width: 100px;">
 </a>
   
