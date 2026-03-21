@@ -28,7 +28,7 @@
 <br>
 
 
-### Localization I’ve Worked On
+### Game Localization I’ve Worked On
 [Red Dead Redemption](https://www.nexusmods.com/reddeadredemption/mods/575) & [Red Dead Redemption 2](https://discord.gg/j4ctCTgd6S)
 
 ### 🖥️ Operating Systems
