@@ -9,6 +9,7 @@
 #### ⏬ [ShellTube](https://github.com/emadadeldev/ShellTube): Download Youtube videos easily.  
 #### 🎧 [Quran](https://emadadeldev.github.io/Soura/): Listen to daily Quranic Surahs.  
 #### ⚡ [Dynamic Window Manager](https://github.com/emadadeldev/dwm): My minimal Void DWM
+#### 🦇 [Batman Cave](https://batscave.gitlab.io/) - Arabic Community Archives
 
 ### Languages and Tools
 
